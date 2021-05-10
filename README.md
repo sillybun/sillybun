@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- https://api.spencerwoo.com/substats/?source=zhihu&queryKey=zhangyiteng -->
-[![Zhihu]https://img.shields.io/badge/dynamic/json?color=%231E90FF&label=知乎关注&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dzhangyiteng](https://www.zhihu.com/people/zhangyiteng)
+[![Zhihu](https://img.shields.io/badge/dynamic/json?color=%231E90FF&label=知乎关注&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dzhangyiteng&longCache=true&style=flat-square)](https://www.zhihu.com/people/zhangyiteng)
 
 <!-- [![Zhihu](https://img.shields.io/badge/dynamic/json?label=%E7%9F%A5%E4%B9%8E%E5%85%B3%E6%B3%A8&labelColor=0084ff&color=0099ff&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dxia-chong-yu-bing-34-67&longCache=true&style=flat-square)](https://www.zhihu.com/people/zhangyiteng) -->
 
